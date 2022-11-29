@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cff8d4979cac7044387078190e47da8a, type: 3}
+  m_Name: Pistol
+  m_EditorClassIdentifier: 
+  Weapon: {fileID: 2128086344467191521, guid: 80adc7ec6eecf5a44be9a3d6505dbfd1, type: 3}
+  _defaultFireRate: 0
+  _defaultMaxClipSize: 12
+  _defaultAmmoReserve: 100
+  _defaultCurrentClipSize: 12
+  _defaultRange: 100
+  _defaultDamage: 10
+  _fireRate: 0
+  _maxClipSize: 12
+  _ammoReserve: 100
+  _currentClipSize: 12
+  _damage: 10
